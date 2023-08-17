@@ -310,7 +310,7 @@ int main()
                 window.draw(text);
                 window.display();
                 usleep(2000);
-                cout<<"Game over. exit..."
+                cout<<"Game over. exit...";
                 return 0;
             }
         }
